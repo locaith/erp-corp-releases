@@ -1,14 +1,23 @@
 # ERP CORP – ứng dụng di động
 
-Nơi tải ứng dụng Android của ERP CORP. Kho này chỉ chứa bản cài đặt, không chứa mã nguồn hay dữ liệu.
+Nơi tải ứng dụng của ERP CORP. Kho này chỉ chứa bản cài đặt, không chứa mã nguồn hay dữ liệu.
 
-## Cài đặt
+## Android
 
-1. Tải tệp `.apk` mới nhất tại [Releases](../../releases/latest).
+1. Tải bản mới nhất: **[ERP-CORP.apk](https://github.com/locaith/erp-corp-releases/releases/latest/download/ERP-CORP.apk)**
 2. Mở tệp vừa tải, cho phép "Cài ứng dụng từ nguồn này" khi Android hỏi, bấm **Cài đặt**.
-3. Mở ERP CORP, nhập **địa chỉ máy chủ** do phòng Hành chính/IT cung cấp (chỉ nhập một lần), rồi đăng nhập bằng tài khoản của bạn.
-4. Khi chấm công, ứng dụng sẽ xin quyền Vị trí và Máy ảnh.
+3. Mở ERP CORP và đăng nhập bằng tài khoản của bạn. Khi chấm công, ứng dụng sẽ xin quyền Vị trí và Máy ảnh.
 
-Ứng dụng không lưu sẵn dữ liệu hay mật khẩu nào. Muốn đổi máy chủ, bấm **Đổi máy chủ** ở màn hình đăng nhập.
+Cập nhật: tải bản mới và cài đè, dữ liệu đăng nhập được giữ nguyên.
 
-Bản thử nghiệm ký bằng khoá thử; khi có bản chính thức, cần gỡ bản thử rồi cài lại một lần.
+## iPhone / iPad
+
+Hiện dùng bản web cài lên màn hình chính:
+
+1. Mở **https://erp.locaith.com** bằng Safari.
+2. Bấm nút Chia sẻ, chọn **Thêm vào MH chính**.
+3. Mở biểu tượng ERP CORP vừa tạo và đăng nhập.
+
+Bản cài từ App Store sẽ có sau khi hoàn tất tài khoản Apple Developer của doanh nghiệp.
+
+Ứng dụng không lưu sẵn dữ liệu hay mật khẩu nào.
